@@ -1,0 +1,1 @@
+[09:32:09.474] Namespace(alpha=0.5, base_lr=0.01, batch_size=4, consistency=1, consistency_rampup=40.0, dataset_name='LA', deterministic=1, exp='AHNet', gpu='0', labeled_bs=2, labelnum=16, lamda=0.5, max_iteration=40000, max_samples=80, model_type='AHNet', root_path='./data/LA/', seed=1337, temperature=0.1)

@@ -1,0 +1,31 @@
+[09:33:42.277] Namespace(alpha=0.5, base_lr=0.01, batch_size=4, consistency=1, consistency_rampup=40.0, dataset_name='LA', deterministic=1, exp='SASNet', gpu='0', labeled_bs=2, labelnum=16, lamda=0.5, max_iteration=40000, max_samples=80, model_type='SASNet', root_path='./data/LA/', seed=1337, temperature=0.1)
+[09:33:44.757] 8 itertations per epoch
+[09:34:17.149] Namespace(alpha=0.5, base_lr=0.01, batch_size=4, consistency=1, consistency_rampup=40.0, dataset_name='LA', deterministic=1, exp='SASNet', gpu='0', labeled_bs=2, labelnum=16, lamda=0.5, max_iteration=40000, max_samples=80, model_type='SASNet', root_path='/cpfs01/user/lizihan/lzh/diffusion/home/sdd/DTC-master/data/LA/', seed=1337, temperature=0.1)
+[09:35:06.763] Namespace(alpha=0.5, base_lr=0.01, batch_size=4, consistency=1, consistency_rampup=40.0, dataset_name='LA', deterministic=1, exp='SASNet', gpu='0', labeled_bs=2, labelnum=16, lamda=0.5, max_iteration=40000, max_samples=80, model_type='SASNet', root_path='/cpfs01/user/lizihan/lzh/diffusion/home/sdd/DTC-master/data', seed=1337, temperature=0.1)
+[09:35:09.078] 8 itertations per epoch
+[09:37:57.852] Namespace(alpha=0.5, base_lr=0.01, batch_size=4, consistency=1, consistency_rampup=40.0, dataset_name='LA', deterministic=1, exp='SASNet', gpu='0', labeled_bs=2, labelnum=16, lamda=0.5, max_iteration=40000, max_samples=80, model_type='SASNet', root_path='/cpfs01/user/lizihan/lzh/diffusion/home/sdd/DTC-master/data', seed=1337, temperature=0.1)
+[09:38:00.550] 8 itertations per epoch
+[09:38:45.537] Namespace(alpha=0.5, base_lr=0.01, batch_size=4, consistency=1, consistency_rampup=40.0, dataset_name='LA', deterministic=1, exp='SASNet', gpu='0', labeled_bs=2, labelnum=16, lamda=0.5, max_iteration=40000, max_samples=80, model_type='SASNet', root_path='/cpfs01/user/lizihan/lzh/diffusion/home/sdd/DTC-master/data', seed=1337, temperature=0.1)
+[09:38:47.889] 8 itertations per epoch
+[09:41:21.334] Namespace(alpha=0.5, base_lr=0.01, batch_size=4, consistency=1, consistency_rampup=40.0, dataset_name='LA', deterministic=1, exp='SASNet', gpu='0', labeled_bs=2, labelnum=16, lamda=0.5, max_iteration=40000, max_samples=80, model_type='SASNet', root_path='/cpfs01/user/lizihan/lzh/diffusion/home/sdd/DTC-master/data', seed=1337, temperature=0.1)
+[09:41:23.930] 8 itertations per epoch
+[09:42:09.230] Namespace(alpha=0.5, base_lr=0.01, batch_size=4, consistency=1, consistency_rampup=40.0, dataset_name='LA', deterministic=1, exp='SASNet', gpu='0', labeled_bs=2, labelnum=16, lamda=0.5, max_iteration=40000, max_samples=80, model_type='SASNet', root_path='/cpfs01/user/lizihan/lzh/diffusion/home/sdd/DTC-master/data', seed=1337, temperature=0.1)
+[09:42:11.535] 8 itertations per epoch
+[09:42:32.154] Namespace(alpha=0.5, base_lr=0.01, batch_size=4, consistency=1, consistency_rampup=40.0, dataset_name='LA', deterministic=1, exp='SASNet', gpu='0', labeled_bs=2, labelnum=16, lamda=0.5, max_iteration=40000, max_samples=80, model_type='SASNet', root_path='/cpfs01/user/lizihan/lzh/diffusion/home/sdd/DTC-master/data', seed=1337, temperature=0.1)
+[09:42:34.652] 8 itertations per epoch
+[09:43:35.037] Namespace(alpha=0.5, base_lr=0.01, batch_size=4, consistency=1, consistency_rampup=40.0, dataset_name='LA', deterministic=1, exp='SASNet', gpu='0', labeled_bs=2, labelnum=16, lamda=0.5, max_iteration=40000, max_samples=80, model_type='SASNet', root_path='/cpfs01/user/lizihan/lzh/diffusion/home/sdd/DTC-master/data', seed=1337, temperature=0.1)
+[09:43:37.585] 8 itertations per epoch
+[09:44:18.658] Namespace(alpha=0.5, base_lr=0.01, batch_size=4, consistency=1, consistency_rampup=40.0, dataset_name='LA', deterministic=1, exp='SASNet', gpu='0', labeled_bs=2, labelnum=16, lamda=0.5, max_iteration=40000, max_samples=80, model_type='SASNet', root_path='/cpfs01/user/lizihan/lzh/diffusion/home/sdd/DTC-master/data', seed=1337, temperature=0.1)
+[09:44:21.337] 8 itertations per epoch
+[09:44:54.150] Namespace(alpha=0.5, base_lr=0.01, batch_size=4, consistency=1, consistency_rampup=40.0, dataset_name='LA', deterministic=1, exp='SASNet', gpu='0', labeled_bs=2, labelnum=16, lamda=0.5, max_iteration=40000, max_samples=80, model_type='SASNet', root_path='/cpfs01/user/lizihan/lzh/diffusion/home/sdd/DTC-master/data', seed=1337, temperature=0.1)
+[09:44:56.865] 8 itertations per epoch
+[09:46:45.224] Namespace(alpha=0.5, base_lr=0.01, batch_size=4, consistency=1, consistency_rampup=40.0, dataset_name='LA', deterministic=1, exp='SASNet', gpu='0', labeled_bs=2, labelnum=16, lamda=0.5, max_iteration=40000, max_samples=80, model_type='SASNet', root_path='/cpfs01/user/lizihan/lzh/diffusion/home/sdd/DTC-master/data', seed=1337, temperature=0.1)
+[09:46:47.464] 8 itertations per epoch
+[09:48:05.231] Namespace(alpha=0.5, base_lr=0.01, batch_size=4, consistency=1, consistency_rampup=40.0, dataset_name='LA', deterministic=1, exp='SASNet', gpu='0', labeled_bs=2, labelnum=16, lamda=0.5, max_iteration=40000, max_samples=80, model_type='SASNet', root_path='/cpfs01/user/lizihan/lzh/diffusion/home/sdd/DTC-master/data', seed=1337, temperature=0.1)
+[09:48:07.715] 8 itertations per epoch
+[09:48:31.340] Namespace(alpha=0.5, base_lr=0.01, batch_size=4, consistency=1, consistency_rampup=40.0, dataset_name='LA', deterministic=1, exp='SASNet', gpu='0', labeled_bs=2, labelnum=16, lamda=0.5, max_iteration=40000, max_samples=80, model_type='SASNet', root_path='/cpfs01/user/lizihan/lzh/diffusion/home/sdd/DTC-master/data', seed=1337, temperature=0.1)
+[09:48:33.919] 8 itertations per epoch
+[09:48:41.592] iteration 1 : loss : 0.826424, loss_d: 1.638740,loss_sdf_consist: 0.685169,loss_cosist: 0.361700
+[09:49:03.452] Namespace(alpha=0.5, base_lr=0.01, batch_size=4, consistency=1, consistency_rampup=40.0, dataset_name='LA', deterministic=1, exp='SASNet', gpu='0', labeled_bs=2, labelnum=16, lamda=0.5, max_iteration=40000, max_samples=80, model_type='SASNet', root_path='/cpfs01/user/lizihan/lzh/diffusion/home/sdd/DTC-master/data', seed=1337, temperature=0.1)
+[09:49:05.959] 8 itertations per epoch
+[09:49:13.360] iteration 1 : loss : 0.826424, loss_d: 1.638740,loss_sdf_consist: 0.685169,loss_cosist: 0.361700
