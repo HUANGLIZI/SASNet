@@ -11,7 +11,7 @@ This repository is based on PyTorch 1.8.2, CUDA 11.1 and Python 3.8.13; All expe
 ### Usage
 1. Clone the repo.;
 ```
-
+git clone https://github.com/HUANGLIZI/SASNet.git
 ```
 2. Train the model;
 ```
