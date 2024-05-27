@@ -51,7 +51,7 @@ python ./code/test.py --dataset_name BraTS --labelnum 25 --gpu 0
 
 ```
 ### pre-trained models
-We provide pre-trained models for LA and Pancreas, which can be found in './SASNet/pretrain', you can load the pre-trained model for training via the following command
+To obtain pre-trained models for LA (Left Atrium), Pancreas, and BraTs, you can contact the email address shandd@stu.xmu.edu.cn. After downloading the models, place them in the './SASNet/pretrain' directory. You can then load the pre-trained model for training using the following command
 ```
 cd SASNet
 # for 20% labels on LA
