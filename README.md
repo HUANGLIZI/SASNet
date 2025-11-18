@@ -1,6 +1,6 @@
 
 ### Requirements
-This repository is based on PyTorch 1.8.2, CUDA 11.1 and Python 3.8.13; All experiments in our paper were conducted on a single NVIDIA A100 GPU.
+This repository is based on PyTorch 1.8.2, CUDA 11.1 and Python 3.8.13; All experiments in our paper were conducted on a single NVIDIA A100 GPU. [Paper](https://www.sciencedirect.com/science/article/pii/S0031320325014062)
 
 ### Data Preparation
 1. The LA dataset is already available in './SASNet/data/LA' 
